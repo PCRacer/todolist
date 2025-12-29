@@ -1,0 +1,71 @@
+{
+  "short_name": "Sticky To Do",
+  "name": "SSuite Sticky To Do",
+  "description": "SSuite Sticky To Do List: Whether you're at home, work, or on the go, you can easily access your task list and stay organized in an instant.",
+  "icons": [
+    {
+      "src": "https://todo.ssuiteoffice.com/static/pwa/to-do-list-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://todo.ssuiteoffice.com/static/pwa/to-do-list-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://todo.ssuiteoffice.com/static/pwa/to-do-list-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://todo.ssuiteoffice.com/static/pwa/to-do-list-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://todo.ssuiteoffice.com/static/pwa/to-do-list-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://todo.ssuiteoffice.com/static/pwa/to-do-list-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://todo.ssuiteoffice.com/static/pwa/to-do-list-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://todo.ssuiteoffice.com/static/pwa/to-do-list-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+	  "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "/",
+  "theme_color": "#ffffff",
+  "dir": "ltr",
+  "lang": "en",
+  "display_override": [
+    "standalone"
+  ],
+  "categories": [
+    "kids",
+    "lifestyle",
+    "productivity",
+    "shopping",
+    "social",
+    "sports",
+    "travel",
+    "utilities"
+  ],
+  "id": "Sticky To Do"
+}
